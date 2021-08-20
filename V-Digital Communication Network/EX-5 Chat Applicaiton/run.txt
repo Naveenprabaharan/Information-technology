@@ -1,0 +1,8 @@
+Client:
+javac ChatClient.java
+java ChatClient localhost 8989
+
+Server:
+
+java ChatServer 8989
+javac ChatServer.java
